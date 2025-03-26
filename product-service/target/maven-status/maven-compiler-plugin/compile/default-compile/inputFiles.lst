@@ -1,0 +1,7 @@
+/home/rushikesh/MyTech/E-comApp/product-service/product-service/src/main/java/com/techie/microservices/product/ProductServiceApplication.java
+/home/rushikesh/MyTech/E-comApp/product-service/product-service/src/main/java/com/techie/microservices/product/controller/ProductController.java
+/home/rushikesh/MyTech/E-comApp/product-service/product-service/src/main/java/com/techie/microservices/product/dto/ProductRequest.java
+/home/rushikesh/MyTech/E-comApp/product-service/product-service/src/main/java/com/techie/microservices/product/dto/ProductResponse.java
+/home/rushikesh/MyTech/E-comApp/product-service/product-service/src/main/java/com/techie/microservices/product/module/Product.java
+/home/rushikesh/MyTech/E-comApp/product-service/product-service/src/main/java/com/techie/microservices/product/repository/ProductRepository.java
+/home/rushikesh/MyTech/E-comApp/product-service/product-service/src/main/java/com/techie/microservices/product/service/ProductService.java
